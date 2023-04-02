@@ -1,0 +1,23 @@
+img{
+	width:300px;
+	border:2px solid blue;
+}
+body{
+	background-image: url('img/wave1.jpg');
+	min-height: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	font-family: 'Aclonica';
+}
+.red{
+	color:red;
+}
+.big_font{
+	font-size:32px;
+}
+#specialStyle{
+	border:2px solid red;
+	background-color:yellow;
+}
